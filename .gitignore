@@ -18,3 +18,8 @@ reports/*
 # IDE settings
 .vscode/
 .idea/
+
+# Distribution / Packaging
+*.egg-info/
+dist/
+build/

@@ -1,6 +1,0 @@
-streamlit>=1.30.0
-streamlit-agraph
-ollama
-chromadb
-rich
-spacy
