@@ -355,9 +355,8 @@ Built with ❤️ for professionals who need transparent, traceable, and auditab
 
 ## 📞 Support & Contact
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/LLM-CerebroScope/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/LLM-CerebroScope/discussions)
-- **Email**: support@example.com (update with your contact)
+- **Issues**: [GitHub Issues](https://github.com/oskarbrzycki/llm-cerebroscope/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/oskarbrzycki/llm-cerebroscope/discussions)
 
 ---
 
