@@ -1,0 +1,40 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cerebroscope"
+version = "1.0.0"
+description = "Forensic Data Analysis & Knowledge Graph System powered by LLMs"
+readme = "README.md"
+authors = [
+  { name = "Twoje Imie", email = "twoj@email.com" },
+]
+
+
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+requires-python = ">=3.10"
+dependencies = [
+    "streamlit>=1.30.0",
+    "streamlit-agraph",
+    "ollama",
+    "chromadb",
+    "rich",
+    "spacy"
+]
+
+[project.scripts]
+cerebro-cli = "cerebro.cli:main"
+cerebro-gui = "cerebro.gui:run_dashboard"
+
+[project.urls]
+"Homepage" = "https://github.com/TwojNick/LLM-CerebroScope"
+
+[tool.setuptools.packages.find]
+where = ["."]  
+include = ["cerebro*"]  
+exclude = ["data*", "reports*", "tests*"]  
+namespaces = false

@@ -1,0 +1,3 @@
+[console_scripts]
+cerebro-cli = cerebro.cli:main
+cerebro-gui = cerebro.gui:run_dashboard
