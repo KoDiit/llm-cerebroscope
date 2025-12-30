@@ -51,8 +51,12 @@ class CerebroValidator:
             "Each document has a 'RELIABILITY_SCORE' (0-100) and a DATE. "
             "Task: "
             "1. Identify conflicts (e.g. Price A vs Price B). "
-            "2. If a conflict exists, recommend trusting the source with the HIGHER SCORE or NEWER DATE. "
+            "2. RESOLUTION LOGIC (Follow strictly): "
+            "   - If scores are different: Trust the source with the HIGHER score. "
+            "   - If scores are EQUAL: Trust the source with the NEWER (later) DATE. "
             "3. Format: 'CONFLICT: [Details] | VERDICT: Trust [ID] because [Reason].' "
+            "CRITICAL INSTRUCTION: If scores are tied (e.g. both 75), do NOT say 'higher score'. "
+            "Instead, verify the dates and state the reason as: 'it is more recent (scores are tied)'."
             "If no conflicts, output: 'No logical conflicts detected.'"
         )
 
